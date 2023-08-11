@@ -112,7 +112,7 @@ consider doing over the next weeks in parallel with our course. pick one.
 
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
 
-- [kodeco.com - your-first-ios-swiftui-app](https://www.kodeco.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
+<!-- - [kodeco.com - your-first-ios-swiftui-app](https://www.kodeco.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
 
 - [Stanford University: CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 
