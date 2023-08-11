@@ -92,7 +92,7 @@ Apples official tour of the Swift language
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 - 14
 
-- [kodeco.com - programming-in-swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals)
+<!-- - [kodeco.com - programming-in-swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals) -->
 
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 
