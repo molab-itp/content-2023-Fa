@@ -24,6 +24,7 @@
 ## History
 
 - prior versions of the course
+  - [2023 spring molab jht](https://github.com/mobilelabclass-itp/content-2023)
   - [2022 molab jht](https://github.com/mobilelabclass-itp/content-2022)
   - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
@@ -40,13 +41,13 @@
 
 - history and evolution
 
-  - 2014 Swift 1.0 September 9, 2014
-  - 2015 Swift 2.0 September 21, 2015
-  - 2016 Swift 3.0 September 13, 2016
-  - 2017 Swift 4.0 September 19, 2017
-  - 2019 Swift 5.0 March 25, 2019
+  - 2023 Swift 5.8.1 June 1, 2023
   - 2022 Swift 5.7.1 November 1, 2022
-  -
+  - 2019 Swift 5.0 March 25, 2019
+  - 2017 Swift 4.0 September 19, 2017
+  - 2016 Swift 3.0 September 13, 2016
+  - 2015 Swift 2.0 September 21, 2015
+  - 2014 Swift 1.0 September 9, 2014
 
 - SwiftUI
 
@@ -92,9 +93,11 @@ Apples official tour of the Swift language
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 - 14
 
-<!-- - [kodeco.com - programming-in-swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals) -->
+- [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
+
+<!-- - [kodeco.com - programming-in-swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals) -->
 
 ### Swift Programming Quick Review
 
@@ -132,11 +135,7 @@ consider doing over the next weeks in parallel with our course. pick one.
   - if you have a concept for a final project write a short description
   -
 
-- add github account to https://github.com/mobilelabclass-itp
-
-- use Xcode to create a playground
-
-- create a repo for you playground
+- create a github account if you don't already have one
 
 - use github desktop to clone these repos:
 
@@ -144,7 +143,22 @@ consider doing over the next weeks in parallel with our course. pick one.
   - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
   -
 
-- (optional) clone wiki
+- create a git repo for your work name it molab-2023
+
+  - add jht9629-nyu as a collaborator
+  - https://github.com/jht9629-nyu
+
+- add a folder named Week01 to store this weeks work
+
+<!-- - add github account to https://github.com/mobilelabclass-itp -->
+
+- use Xcode to create a playground in folder Week01 of your repo
+
+- create a repo for you playground
+
+- commit and push the updates to your repo
+
+<!-- - (optional) clone wiki
 
 ```
 # script to clone the class wiki
@@ -153,28 +167,29 @@ consider doing over the next weeks in parallel with our course. pick one.
 cd ~/Documents
 # clone local copy of wiki
 git clone https://github.com/mobilelabclass-itp/content-2023-Fa.wiki.git
-```
+``` -->
 
 ## Homework Week01
 
-- review the Swift resources
+We'll start in class
 
-  - select resource(s) for learning Swift programming fundamentals
-  - write a brief summary of your plan on your wiki page
-  - and note what resources you plan to use
-  - be prepare to discuss in class your impressions of the swift learning resources that you used
-  - it is OK to revise your plan as you go
-  -
-
-- create a git repo this home work, name it Week01
-
-- create a Xcode playground to explore emoji's and add it to your repo
-
+  <!-- - add jht9629-nyu as a collaborator
+  - https://github.com/jht9629-nyu
+  - add a folder named Week01 to store this weeks work
+  - include a README.md to the folder to document your work and comments
+  - create a Xcode playground to explore emoji's and add it to your repo
   - encorporate Swift langage features you are learning
-  - eg. variables, for loops, arrays
-  -
+  - eg. variables, for loops, arrays -->
 
-- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki#week-01-homework)
+- review the Swift resources
+- select resource(s) for learning Swift programming fundamentals
+- write a brief summary of your plan on your wiki page
+- and note what resources you plan to use
+- be prepare to discuss in class your impressions of the swift learning resources that you used
+- it is OK to revise your plan as you go
+-
+
+- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
 
 <!--
 ## Notes

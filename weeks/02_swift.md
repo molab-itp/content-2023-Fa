@@ -29,7 +29,7 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 ## Resources
 
-- [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
+- [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 <!-- - [Apple Swift Docs - for developer](https://developer.apple.com/documentation/swift) -->
 
 ## review
