@@ -8,9 +8,9 @@
 
 - [xcode app install](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
-- [vs code - optional for note taking](https://code.visualstudio.com) or some other text editor
+- (optional) [vs code - optional for note taking](https://code.visualstudio.com) or some other text editor
 
-- [sf symbols app install](https://developer.apple.com/sf-symbols/)
+- (optional) [sf symbols app install](https://developer.apple.com/sf-symbols/)
 
 ## Overview
 
@@ -32,10 +32,6 @@
 - My mobile apps: SiteClone | MedCampus | SongClips | DICECPU | MoGallery
 - [the epvisual team](http://www.johnhenrythompson.com/ep-visual)
 - [patient 8700804](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8700804)
-<!--
-- iOS Devices Capabilities
-- iOS Libraries
-  -->
 
 ## Swift Programming
 
@@ -55,10 +51,6 @@
 
 ## Resources - Swift
 
-Apples official tour of the Swift language
-
-- [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-
 ### Swift Programming Fundamentals
 
 May take 1 - 3 days.
@@ -67,9 +59,9 @@ May take 1 - 3 days.
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
-- [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
+  - (optional) try out in your own playground
 
-<!-- - [kodeco.com - programming-in-swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals) -->
+- [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 
 ### Swift Programming Quick Review
 
@@ -83,11 +75,10 @@ May take 1 - 3 days.
 
 consider doing over the next weeks in parallel with our course. pick one.
 
-- [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 14 - n (n < 100)
+- [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 14 - 100
 
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
-
-<!-- - [kodeco.com - your-first-ios-swiftui-app](https://www.kodeco.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
+  - project based, select the project(s) that you find interesting
 
 - [Stanford University: CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 
@@ -118,17 +109,7 @@ Sample code is recommend starting point for exploring what's possible for a fina
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
 
-<!-- ### WWDC Videos
-
-- [videos/wwdc2022](https://developer.apple.com/videos/wwdc2022)
-- [videos/wwdc2021](https://developer.apple.com/videos/wwdc2021)
-- [videos/wwdc2020](https://developer.apple.com/videos/wwdc2020)
-- [videos/wwdc2019](https://developer.apple.com/videos/wwdc2019)
-  ...
-- [videos/wwdc2014](https://developer.apple.com/videos/wwdc2014)
- -->
-
-## Class Exercises
+## In Class Exercises
 
 - update your student wiki page and write:
 
@@ -150,28 +131,14 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
   - make sure README.md options is checked
   - add jht9629-nyu as a collaborator
-  - https://github.com/jht9629-nyu
 
 - add a folder named Week01 to store this weeks work
-
-<!-- - add github account to https://github.com/mobilelabclass-itp -->
 
 - use Xcode to create a playground in folder Week01 of your repo
 
 - commit and push the updates to your repo
 
 - add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
-
-<!-- - (optional) clone wiki
-
-```
-# script to clone the class wiki
-# enter in Terminal app
-# select location of wiki
-cd ~/Documents
-# clone local copy of wiki
-git clone https://github.com/mobilelabclass-itp/content-2023-Fa.wiki.git
-``` -->
 
 ## Homework Week01
 
@@ -203,9 +170,11 @@ Part 2. create playground with generative ascii text art
 - add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
 
 - document issues/errors in comments
-- save error source
+- save source of any errors
 
-Part 3. begin research on your final project
+Part 3. (optional) test your Swift skills with [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
+
+Part 4. begin research on your final project
 
 - consult wwdc videos
 
@@ -222,4 +191,38 @@ Part 3. begin research on your final project
 <!--
 ## Notes
 [01-MoLab-Notes](../assets/01-MoLab-Notes.pdf)
+ -->
+
+<!-- - (optional) clone wiki
+
+```
+# script to clone the class wiki
+# enter in Terminal app
+# select location of wiki
+cd ~/Documents
+# clone local copy of wiki
+git clone https://github.com/mobilelabclass-itp/content-2023-Fa.wiki.git
+``` -->
+
+<!--
+- iOS Devices Capabilities
+- iOS Libraries
+  -->
+
+<!-- - [kodeco.com - programming-in-swift-fundamentals](https://www.kodeco.com/28092971-programming-in-swift-fundamentals) -->
+
+<!-- - [kodeco.com - your-first-ios-swiftui-app](https://www.kodeco.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
+
+  <!-- - https://github.com/jht9629-nyu -->
+
+<!-- - add github account to https://github.com/mobilelabclass-itp -->
+
+<!-- ### WWDC Videos
+
+- [videos/wwdc2022](https://developer.apple.com/videos/wwdc2022)
+- [videos/wwdc2021](https://developer.apple.com/videos/wwdc2021)
+- [videos/wwdc2020](https://developer.apple.com/videos/wwdc2020)
+- [videos/wwdc2019](https://developer.apple.com/videos/wwdc2019)
+  ...
+- [videos/wwdc2014](https://developer.apple.com/videos/wwdc2014)
  -->
