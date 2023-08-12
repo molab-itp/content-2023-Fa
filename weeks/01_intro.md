@@ -142,7 +142,7 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 ## Homework Week01
 
-We'll start in class
+- start in class
 
 <!--
 - add jht9629-nyu as a collaborator
@@ -172,7 +172,10 @@ Part 2. create playground with generative ascii text art
 - document issues/errors in comments
 - save source of any errors
 
-Part 3. (optional) test your Swift skills with [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
+Part 3. (optional) test your Swift skills
+
+- [unwrap app](https://apps.apple.com/us/app/unwrap/id1440611372)
+- works on iPhone iOS and macOS desktops with Apple silicon
 
 Part 4. begin research on your final project
 
