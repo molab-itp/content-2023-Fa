@@ -113,7 +113,7 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 - opt-in to public exposure,
   pick your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
-  for you student wiki page
+  for your student wiki page
 - update your student wiki page and write:
 
   - what programming languages have you used? how much?
@@ -128,12 +128,12 @@ Sample code is recommend starting point for exploring what's possible for a fina
   - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
 
-- create a git repo for your work name it molab-2023
+- create a git repo for your work name it **molab-2023**
 
-  - make sure README.md options is checked
+  - make sure README.md option is checked
   - add jht9629-nyu as a collaborator
 
-- add a folder named Week01 to store this weeks work
+- add a folder named **Week01** to store this weeks work
 
 - use Xcode to create a playground in folder Week01 of your repo
 
@@ -145,14 +145,14 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 - start in class
 
-- budget 6-9 hours for this homework assignment
+- budget 6 to 9 hours for this homework assignment
 - depending on your prior coding experience you may need more time
 - focus of completing as much of Part 1 as possible
-- if you run out of time you can defer uncompleted work
+- if you run out of time you can resume where you left of next week
 
 Part 1. work on swift fundamentals
 
-- do Day 1 - 14 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
+- do Days 1 to 7 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 - document hours and issues in your wiki page
 
 Part 2. create playground with generative ascii text art
