@@ -24,7 +24,7 @@
 ## History
 
 - prior versions of the course
-  - [2023 spring molab jht](https://github.com/mobilelabclass-itp/content-2023)
+  - [2023-spring molab jht](https://github.com/mobilelabclass-itp/content-2023)
   - [2022 molab jht](https://github.com/mobilelabclass-itp/content-2022)
   - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
@@ -145,6 +145,7 @@ consider doing over the next weeks in parallel with our course. pick one.
 
 - create a git repo for your work name it molab-2023
 
+  - make sure README.md options is checked
   - add jht9629-nyu as a collaborator
   - https://github.com/jht9629-nyu
 
@@ -153,8 +154,6 @@ consider doing over the next weeks in parallel with our course. pick one.
 <!-- - add github account to https://github.com/mobilelabclass-itp -->
 
 - use Xcode to create a playground in folder Week01 of your repo
-
-- create a repo for you playground
 
 - commit and push the updates to your repo
 
@@ -173,13 +172,31 @@ git clone https://github.com/mobilelabclass-itp/content-2023-Fa.wiki.git
 
 We'll start in class
 
-  <!-- - add jht9629-nyu as a collaborator
-  - https://github.com/jht9629-nyu
-  - add a folder named Week01 to store this weeks work
-  - include a README.md to the folder to document your work and comments
-  - create a Xcode playground to explore emoji's and add it to your repo
+<!-- - add jht9629-nyu as a collaborator
+- https://github.com/jht9629-nyu
+- add a folder named Week01 to store this weeks work
+- include a README.md to the folder to document your work and comments -->
+
+  <!-- - create a Xcode playground to explore emoji's and add it to your repo
   - encorporate Swift langage features you are learning
   - eg. variables, for loops, arrays -->
+
+<!--
+
+Part 1. work on swift fundamentals.
+budget n hours (6-8)
+document hours and topics in your wiki page
+
+Part 2. create playground with generative ascii text art
+that demonstrate use of variables, for-loops, and functions
+store playground  in your classwork repo and update
+>> can turn in later if hours spend on fundamentals
+- add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
+
+>> document issues/errors in comments
+>> save error source
+
+ -->
 
 - review the Swift resources
 - select resource(s) for learning Swift programming fundamentals
