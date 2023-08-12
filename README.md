@@ -53,7 +53,10 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Dates
 
-09/07/2023 - 12/14/2023 Th 9:00AM - 12:00PM
+09/07/2023 - 12/14/2023
+
+Th 9:00AM - 12:00PM
+
 370 Jay St, Room 407 Loc: Brooklyn Campus
 
 | Week | Date     |
