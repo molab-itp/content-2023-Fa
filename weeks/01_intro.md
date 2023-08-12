@@ -53,34 +53,6 @@
 
   - WWDC 2019
 
-## Apple Platform Resources
-
-### WWDC Video Tutorials
-
-Use to explore your final project options.
-
-- [WWDC Videos](https://developer.apple.com/videos/all-videos)
-
-Covers everything Apple (iOS, macOS, tvOS, watchOS)  
-Use search to be selective, or [browse by Topics](https://developer.apple.com/videos/topics/)
-
-### WWDC Sample Code
-
-Sample code is recommend starting point for exploring what's possible for a final project. Download and verify the sample works before investing your time in further research.
-
-- [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
-- [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
-- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
-
-### WWDC Videos
-
-- [videos/wwdc2022](https://developer.apple.com/videos/wwdc2022)
-- [videos/wwdc2021](https://developer.apple.com/videos/wwdc2021)
-- [videos/wwdc2020](https://developer.apple.com/videos/wwdc2020)
-- [videos/wwdc2019](https://developer.apple.com/videos/wwdc2019)
-  ...
-- [videos/wwdc2014](https://developer.apple.com/videos/wwdc2014)
-
 ## Resources - Swift
 
 Apples official tour of the Swift language
@@ -89,7 +61,7 @@ Apples official tour of the Swift language
 
 ### Swift Programming Fundamentals
 
-1 - 2 days. pick one.
+May take 1 - 3 days.
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 - 14
 
@@ -101,7 +73,7 @@ Apples official tour of the Swift language
 
 ### Swift Programming Quick Review
 
-1 - 2 hours overview for experienced coders and beginners. pick one.
+1 - 2 hours overview for experienced coders. pick one.
 
 - [learn-essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
 
@@ -124,6 +96,37 @@ consider doing over the next weeks in parallel with our course. pick one.
 - [Git and GitHub for Poets - Dan Shiffman videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 - [github desktop doc](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+
+## Apple Platform Resources
+
+### WWDC Video Tutorials
+
+Inspiration for your final projecct.
+Use to explore your final project options.
+
+- [WWDC Videos](https://developer.apple.com/videos/all-videos)
+
+Covers everything Apple (iOS, macOS, tvOS, watchOS)  
+Use search to be selective, or [browse by Topics](https://developer.apple.com/videos/topics/)
+
+### WWDC Sample Code
+
+Sample code is recommend starting point for exploring what's possible for a final project. Download and verify the sample works before investing your time in further research.
+
+- [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
+- [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
+- [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
+- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
+
+<!-- ### WWDC Videos
+
+- [videos/wwdc2022](https://developer.apple.com/videos/wwdc2022)
+- [videos/wwdc2021](https://developer.apple.com/videos/wwdc2021)
+- [videos/wwdc2020](https://developer.apple.com/videos/wwdc2020)
+- [videos/wwdc2019](https://developer.apple.com/videos/wwdc2019)
+  ...
+- [videos/wwdc2014](https://developer.apple.com/videos/wwdc2014)
+ -->
 
 ## Class Exercises
 
@@ -157,6 +160,8 @@ consider doing over the next weeks in parallel with our course. pick one.
 
 - commit and push the updates to your repo
 
+- add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
+
 <!-- - (optional) clone wiki
 
 ```
@@ -172,32 +177,39 @@ git clone https://github.com/mobilelabclass-itp/content-2023-Fa.wiki.git
 
 We'll start in class
 
-<!-- - add jht9629-nyu as a collaborator
+<!--
+- add jht9629-nyu as a collaborator
 - https://github.com/jht9629-nyu
 - add a folder named Week01 to store this weeks work
 - include a README.md to the folder to document your work and comments -->
 
   <!-- - create a Xcode playground to explore emoji's and add it to your repo
   - encorporate Swift langage features you are learning
-  - eg. variables, for loops, arrays -->
+  - eg. variables, for loops, arrays 
+  -->
 
-<!--
+Part 1. work on swift fundamentals
 
-Part 1. work on swift fundamentals.
-budget n hours (6-8)
-document hours and topics in your wiki page
+- do Day 1 - 14 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
+- budget 6-8 hours
+- document hours and issues in your wiki page
 
 Part 2. create playground with generative ascii text art
-that demonstrate use of variables, for-loops, and functions
-store playground  in your classwork repo and update
->> can turn in later if hours spend on fundamentals
+
+- demonstrate use of variables, for-loops, and functions
+- store playground in your classwork repo and update
+- ok do next week if hours spent on fundamentals
+
 - add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
 
->> document issues/errors in comments
->> save error source
+- document issues/errors in comments
+- save error source
 
- -->
+Part 3. begin research on your final project
 
+- consult wwdc videos
+
+<!--
 - review the Swift resources
 - select resource(s) for learning Swift programming fundamentals
 - write a brief summary of your plan on your wiki page
@@ -205,8 +217,7 @@ store playground  in your classwork repo and update
 - be prepare to discuss in class your impressions of the swift learning resources that you used
 - it is OK to revise your plan as you go
 -
-
-- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
+ -->
 
 <!--
 ## Notes
