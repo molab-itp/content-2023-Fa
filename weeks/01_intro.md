@@ -111,10 +111,12 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 ## In Class Exercises
 
+- opt-in to public exposure,
+  pick your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
+  for you student wiki page
 - update your student wiki page and write:
 
-  - your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
-  - what programming languages have you used?
+  - what programming languages have you used? how much?
   - what is your favorite mobile app and why?
   - if you have a concept for a final project write a short description
   -
@@ -125,7 +127,6 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
   - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
-  -
 
 - create a git repo for your work name it molab-2023
 
@@ -144,28 +145,20 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 - start in class
 
-<!--
-- add jht9629-nyu as a collaborator
-- https://github.com/jht9629-nyu
-- add a folder named Week01 to store this weeks work
-- include a README.md to the folder to document your work and comments -->
-
-  <!-- - create a Xcode playground to explore emoji's and add it to your repo
-  - encorporate Swift langage features you are learning
-  - eg. variables, for loops, arrays 
-  -->
+- budget 6-9 hours for this homework assignment
+- depending on your prior coding experience you may need more time
+- focus of completing as much of Part 1 as possible
+- if you run out of time you can defer uncompleted work
 
 Part 1. work on swift fundamentals
 
 - do Day 1 - 14 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
-- budget 6-8 hours
 - document hours and issues in your wiki page
 
 Part 2. create playground with generative ascii text art
 
 - demonstrate use of variables, for-loops, and functions
 - store playground in your classwork repo and update
-- ok do next week if hours spent on fundamentals
 
 - add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
 
@@ -229,3 +222,14 @@ git clone https://github.com/mobilelabclass-itp/content-2023-Fa.wiki.git
   ...
 - [videos/wwdc2014](https://developer.apple.com/videos/wwdc2014)
  -->
+
+<!--
+- add jht9629-nyu as a collaborator
+- https://github.com/jht9629-nyu
+- add a folder named Week01 to store this weeks work
+- include a README.md to the folder to document your work and comments -->
+
+  <!-- - create a Xcode playground to explore emoji's and add it to your repo
+  - encorporate Swift langage features you are learning
+  - eg. variables, for loops, arrays 
+  -->
