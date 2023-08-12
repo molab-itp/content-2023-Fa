@@ -21,6 +21,8 @@ running the latest operating system and development tools are required.
 Prereq:
 Some programming experience (such as ICM) and willingness to learn Apple's Swift programming language.
 
+[Intro Slides](https://docs.google.com/document/d/1WpZUw5lQMV_Qn1tJuE9ruXJkIV7MDRhOQJOctLY9KKQ/edit)
+
 ## Syllabus Overview
 
 - 1 -- [Swift Programming 1, Introduction](weeks/01_intro.md)
