@@ -133,9 +133,9 @@ Sample code is recommend starting point for exploring what's possible for a fina
   - make sure README.md option is checked
   - add jht9629-nyu as a collaborator
 
-- add a folder named **Week01** to store this weeks work
+- add a folder named **Week01** to store this week's work
 
-- use Xcode to create a playground in folder Week01 of your repo
+- use Xcode to create a playground in folder **Week01** of your repo
 
 - commit and push the updates to your repo
 
@@ -144,6 +144,7 @@ Sample code is recommend starting point for exploring what's possible for a fina
 ## Homework Week01
 
 - learn swift programming fundamentals
+- using [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 to 14
 - start in class
 
 - budget 6 to 9 hours for this homework assignment
