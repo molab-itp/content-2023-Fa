@@ -53,7 +53,7 @@
 
 ### Swift Programming Fundamentals
 
-May take 1 - 3 days.
+learn swift programming fundamentals by week 3
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 - 14
 
@@ -143,6 +143,7 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 ## Homework Week01
 
+- learn swift programming fundamentals
 - start in class
 
 - budget 6 to 9 hours for this homework assignment
