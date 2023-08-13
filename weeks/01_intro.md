@@ -139,28 +139,28 @@ Sample code is recommend starting point for exploring what's possible for a fina
 
 - commit and push the updates to your repo
 
-- add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
+- add a link to your playground on [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
 
 ## Homework Week01
 
 - start in class
 
 - budget 6 to 9 hours for this homework assignment
-- depending on your prior coding experience you may need more time
-- focus of completing as much of Part 1 as possible
-- if you run out of time you can resume where you left of next week
+- depending on your prior coding experience you may need more time or less time
+- focus on completing as much of Part 1 as possible
+- the goal is to complete up to Day 14 by Week 3 of this course
 
 Part 1. work on swift fundamentals
 
 - do Days 1 to 7 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 - document hours and issues in your wiki page
 
-Part 2. create playground with generative ascii text art
+Part 2. create playground that produces text art
 
 - demonstrate use of variables, for-loops, and functions
-- store playground in your classwork repo and update
+- store the playground in your classwork repo and update
 
-- add a link to your playground [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
+- add a link to your playground on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
 
 - document issues/errors in comments
 - save source of any errors
