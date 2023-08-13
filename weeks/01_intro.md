@@ -59,9 +59,9 @@ learn swift programming fundamentals by week 3
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
-  - (optional) try out in your own playground
-
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
+
+- !!@ try out in your own playground
 
 ### Swift Programming Quick Review
 
