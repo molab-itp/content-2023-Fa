@@ -93,7 +93,7 @@ consider doing over the next weeks in parallel with our course. pick one.
 ### WWDC Video Tutorials
 
 Inspiration for your final projecct.
-Use to explore your final project options.
+Use to explore your final project options and find sample code.
 
 - [WWDC Videos](https://developer.apple.com/videos/all-videos)
 
