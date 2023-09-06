@@ -79,7 +79,7 @@ Th 9:00AM - 12:00PM
 
 ## Extra Support
 
-- [Office hours: Wednesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+- [Office hours: Tuesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
   - Please book a time slot at least 6 hours before the time slot.
   - For example: if you want to see me for the 1pm time slot, enter the selection before 7am Wednesday morning.
