@@ -109,9 +109,13 @@ Sample code is recommend starting point for exploring what's possible for a fina
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
 
-## Course example repos
+## Class Resources
+
+Course example repos
 
 - [github.com/molab-itp](https://github.com/molab-itp)
+
+- [homework page](https://github.com/molab-itp/content-2023-Fa/wiki)
 
 ## In Class Exercises
 
