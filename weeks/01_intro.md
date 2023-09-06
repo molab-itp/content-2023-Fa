@@ -166,7 +166,7 @@ Part 2. create playground that produces text art
 - demonstrate use of variables, for-loops, and functions
 - store the playground in your classwork repo and update
 
-- add a link to your playground on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023-Fa/wiki#week-01-homework)
+- add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2023-Fa/wiki/wiki#week-01-homework)
 
 - document issues/errors in comments
 - save source of any errors

@@ -59,6 +59,6 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
 - add a link to your project on
 
-  - [wiki home page week06](https://github.com/mobilelabclass-itp/content-2023/wiki#week-06-homework)
+  - [wiki home page week06](https://github.com/molab-itp/content-2023-Fa/wiki#week-06-homework)
 
 - submit questions

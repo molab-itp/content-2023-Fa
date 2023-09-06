@@ -82,4 +82,4 @@
   - Add a list view of locations and ability to delete an entry
 - Option 2:
   - setup a firebase project and build one of the firebase tutorial apps
-- [wiki home page week09](https://github.com/mobilelabclass-itp/content-2023/wiki#week-09-homework)
+- [wiki home page week09](https://github.com/molab-itp/content-2023-Fa/wiki#week-09-homework)

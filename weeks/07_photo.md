@@ -56,4 +56,4 @@
 - Create a photo manipulation app
   - you can base it on one of the resources presented in class, adding your own twist
   - add a link to your project here
-    - [wiki home page week07](https://github.com/mobilelabclass-itp/content-2023/wiki#week-07-homework)
+    - [wiki home page week07](https://github.com/molab-itp/content-2023-Fa/wiki#week-07-homework)

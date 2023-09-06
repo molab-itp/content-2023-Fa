@@ -2,7 +2,7 @@
 
 <!-- ## Review last week -->
 
-<!-- - [01-MoLab-Notes](https://github.com/mobilelabclass-itp/content-2023/blob/main/assets/01-MoLab-Notes.pdf) -->
+<!-- - [01-MoLab-Notes](https://github.com/molab-itp/content-2023-Fa/blob/main/assets/01-MoLab-Notes.pdf) -->
 
 ## Plan
 
@@ -77,6 +77,6 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 - add a link to your Week02 repo on the
 
-  - [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki#week-02-homework)
+  - [wiki home page](https://github.com/molab-itp/content-2023-Fa/wiki#week-02-homework)
 
   - update your wiki page with any issues

@@ -44,7 +44,7 @@
 
 - add a link to your project on
 
-  - [wiki home page week04](https://github.com/mobilelabclass-itp/content-2023/wiki#week-04-homework)
+  - [wiki home page week04](https://github.com/molab-itp/content-2023-Fa/wiki#week-04-homework)
 
 - submit questions
 

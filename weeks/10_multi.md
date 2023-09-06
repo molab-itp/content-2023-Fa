@@ -36,4 +36,4 @@
 
 - write your final project proposal on your wiki page
 - create a repo for the project and add it to the homework page
-- [wiki home page week10](https://github.com/mobilelabclass-itp/content-2023/wiki#week-10-homework)
+- [wiki home page week10](https://github.com/molab-itp/content-2023-Fa/wiki#week-10-homework)

@@ -32,6 +32,6 @@
 
 - add a link to your project on
 
-  - [wiki home page week05](https://github.com/mobilelabclass-itp/content-2023/wiki#week-05-homework)
+  - [wiki home page week05](https://github.com/molab-itp/content-2023-Fa/wiki#week-05-homework)
 
   - enter questions on your wiki page
