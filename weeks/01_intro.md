@@ -121,7 +121,7 @@ Course example repos
 
 - opt-in to public exposure,
   pick your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
-  for your student wiki page
+  for your [student wiki page](https://github.com/molab-itp/content-2023-Fa/wiki)
 - update your student wiki page and write:
 
   - what programming languages have you used? how much?
@@ -133,8 +133,8 @@ Course example repos
 
 - use github desktop to clone these repos:
 
-  - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
-  - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+  - [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
+  - [01-Playground](https://github.com/molab-itp/01-Playground)
 
 - create a git repo for your work name it **molab-2023**
 
@@ -207,7 +207,7 @@ Part 4. begin research on your final project
 # select location of wiki
 cd ~/Documents
 # clone local copy of wiki
-git clone https://github.com/mobilelabclass-itp/content-2023-Fa.wiki.git
+git clone https://github.com/molab-itp/content-2023-Fa.wiki.git
 ``` -->
 
 <!--

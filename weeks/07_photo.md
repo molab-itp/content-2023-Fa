@@ -16,13 +16,13 @@
 
 ### Demo Apps
 
-- [07-SlideShowDemo](https://github.com/mobilelabclass-itp/07-SlideShowDemo)
+- [07-SlideShowDemo](https://github.com/molab-itp/07-SlideShowDemo)
 
-- [07-PhotoPickBlender](https://github.com/mobilelabclass-itp/07-PhotoPickBlender)
+- [07-PhotoPickBlender](https://github.com/molab-itp/07-PhotoPickBlender)
 
-- [07-FaceMesh](https://github.com/mobilelabclass-itp/07-FaceMesh)
+- [07-FaceMesh](https://github.com/molab-itp/07-FaceMesh)
 
-- [07-Instafilter](https://github.com/mobilelabclass-itp/07-Instafilter)
+- [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
   - A photo manipulation program using Core Image filters
   - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
   - [Instafilter article](https://www.hackingwithswift.com/books/ios-swiftui/instafilter-introduction)

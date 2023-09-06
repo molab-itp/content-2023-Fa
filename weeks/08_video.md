@@ -20,19 +20,19 @@
 
 ### Review - slide show
 
-- [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
-- [07-SlideShowDemo](https://github.com/mobilelabclass-itp/07-SlideShowDemo)
+- [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
+- [07-SlideShowDemo](https://github.com/molab-itp/07-SlideShowDemo)
 - - reuse: combining audio with play/pause slide show
     -- branch: audio
 
 ### Review - photo demo
 
-- [07-Instafilter](https://github.com/mobilelabclass-itp/07-Instafilter)
+- [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
 - - analyzing and adjusting filter intensity
 
 ### Video Demo
 
-- [08-FilterTheWorld](https://github.com/mobilelabclass-itp/08-FilterTheWorld)
+- [08-FilterTheWorld](https://github.com/molab-itp/08-FilterTheWorld)
 
 ## Homework Week08
 

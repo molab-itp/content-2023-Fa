@@ -14,48 +14,48 @@
 
 <!-- ### navigation demos revisted
 
-- [06-TabViewDemo](https://github.com/mobilelabclass-itp/06-TabViewDemo)
+- [06-TabViewDemo](https://github.com/molab-itp/06-TabViewDemo)
 
-- [06-MenuNestedDemo](https://github.com/mobilelabclass-itp/06-MenuNestedDemo)
+- [06-MenuNestedDemo](https://github.com/molab-itp/06-MenuNestedDemo)
 
-- [07-SlideShowDemo](https://github.com/mobilelabclass-itp/07-SlideShowDemo)
+- [07-SlideShowDemo](https://github.com/molab-itp/07-SlideShowDemo)
 
 ### SwiftUI Demos - navigation
 
-- [Clubapartment app](https://github.com/mobilelabclass-itp/swiftui.builds) 06_swiftui.builds/clubhouse
+- [Clubapartment app](https://github.com/molab-itp/swiftui.builds) 06_swiftui.builds/clubhouse
 
   - [View Figma design](https://www.figma.com/file/8DwfJi51F88IW1xNVrDMP4/Clubapartment?node-id=0%3A1)
   - [Watch me build](https://www.youtube.com/watch?v=UVTRKeIm3JA&feature=youtu.be)
 
 -
-- [Puppy adoption app](https://github.com/mobilelabclass-itp/06-Wiggles-iOS) 06-Wiggles-iOS
-- [iDine app](https://github.com/mobilelabclass-itp/iDine) 06-iDine
+- [Puppy adoption app](https://github.com/molab-itp/06-Wiggles-iOS) 06-Wiggles-iOS
+- [iDine app](https://github.com/molab-itp/iDine) 06-iDine
   - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project) -->
 
 ## Map Demo Apps
 
-- [09-Location](https://github.com/mobilelabclass-itp/09-Location)
+- [09-Location](https://github.com/molab-itp/09-Location)
 
-- [09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
+- [09-Bucketlist](https://github.com/molab-itp/09-Bucketlist)
 
 ### Saving Data - Local
 
-- [05-ImageEditDemo](https://github.com/mobilelabclass-itp/05-ImageEditDemo)
+- [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 
-- [06-ChipsSaveJSON](https://github.com/mobilelabclass-itp/06-ChipsSaveJSON)
+- [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
 
 ### Saving Data - Cloud
 
-- [09-ChipsSaveCloud](https://github.com/mobilelabclass-itp/09-ChipsSaveCloud)
+- [09-ChipsSaveCloud](https://github.com/molab-itp/09-ChipsSaveCloud)
 
 ## MoGallery App
 
-- [98-MoGallery-Private](https://github.com/mobilelabclass-itp/98-MoGallery-Private)
+- [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
 
   - private repo with MoGallery/MoGallery/GoogleService-Info.plist
   - run on the your iOS device to access firebase project configured for this class
 
-- [98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
+- [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
   - must create your own [firebase project - a container for you app](https://firebase.google.com/)
 
@@ -78,7 +78,7 @@
 ## Homework Week09
 
 - Option 1:
-  - Using Map Demo app [09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
+  - Using Map Demo app [09-Bucketlist](https://github.com/molab-itp/09-Bucketlist)
   - Add a list view of locations and ability to delete an entry
 - Option 2:
   - setup a firebase project and build one of the firebase tutorial apps

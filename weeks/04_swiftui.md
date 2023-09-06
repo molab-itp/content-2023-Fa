@@ -13,7 +13,7 @@
 
   - Learn coding with Swift by Paul Hudson
 
-- [03-closures-ints-strings](https://github.com/mobilelabclass-itp/03-closures-ints-strings)
+- [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
   - Dictionary/Array/Struct/Class
 
 ## Apple Resources
@@ -36,7 +36,7 @@
 
   - decoding the docs
 
-  - [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
+  - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
 ## Homework Week04
 

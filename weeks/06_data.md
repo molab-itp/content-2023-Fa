@@ -14,18 +14,18 @@
 
 Examples of using data, typically stored as JSON, to describe the navigational layout of views.
 
-- [iDine app](https://github.com/mobilelabclass-itp/06-iDine)
+- [iDine app](https://github.com/molab-itp/06-iDine)
   "restaurant app that lists items in a menu and helps folks place orders"
 
   - [source repo](https://github.com/twostraws/iDine)
   - [hackingwithswift.com swiftui-tutorial](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
-- [Wiggles 🐶 app](https://github.com/mobilelabclass-itp/06-Wiggles-iOS)
+- [Wiggles 🐶 app](https://github.com/molab-itp/06-Wiggles-iOS)
   "Beautiful Puppy adoption app built to Demonstrate the use of SwiftUI and MVVM Architecture."
 
   - [source repo](https://github.com/sameersyd/Wiggles-iOS)
 
-- [Clubapartment app](https://github.com/mobilelabclass-itp/06-swiftui.builds)
+- [Clubapartment app](https://github.com/molab-itp/06-swiftui.builds)
   "building cool stuff with swiftui"
 
   - [source repo](https://github.com/FranckNdame/swiftui.builds)
@@ -44,11 +44,11 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
 ### Saving Data Demos
 
-- [05-ImageEditDemo](https://github.com/mobilelabclass-itp/05-ImageEditDemo)
+- [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 
-- [06-ChipsSaveJSON](https://github.com/mobilelabclass-itp/06-ChipsSaveJSON)
+- [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
 
-- [06-Voice-Recorder](https://github.com/mobilelabclass-itp/06-Voice-Recorder)
+- [06-Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
   - [source repo](https://github.com/pinlunhuang/Voice-Recorder)
 
 ## Homework Week06

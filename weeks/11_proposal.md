@@ -2,13 +2,13 @@
 
 ## Plan
 
-- [review Bucketlist branch: list](https://github.com/mobilelabclass-itp/09-Bucketlist.git)
+- [review Bucketlist branch: list](https://github.com/molab-itp/09-Bucketlist.git)
 
 - MoGallery Workflow
 
-  - https://github.com/mobilelabclass-itp/98-MoGallery-Private.git
-  - https://github.com/mobilelabclass-itp/98-MoGallery.git
-  - https://github.com/mobilelabclass-itp/98-MoGallery-p5js.git
+  - https://github.com/molab-itp/98-MoGallery-Private.git
+  - https://github.com/molab-itp/98-MoGallery.git
+  - https://github.com/molab-itp/98-MoGallery-p5js.git
 
 - Pair up to update your final project proposal in your wiki page.
 

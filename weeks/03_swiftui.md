@@ -10,7 +10,7 @@
 
 ## Playground review
 
-[03-closures-ints-strings](https://github.com/mobilelabclass-itp/03-closures-ints-strings)
+[03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
 ## Apple SwiftUI Resources
 
@@ -23,11 +23,11 @@
 
 ## SwiftUI Example Repo
 
-- [03-ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/03-ImageUiDemo-1-symbols)
+- [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
 
-- [03-ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/03-ImageUiDemo-2-urls)
+- [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
 
-- [03-About-Me](https://github.com/mobilelabclass-itp/03-About-Me)
+- [03-About-Me](https://github.com/molab-itp/03-About-Me)
   - [sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
   - requires the latest version of the [Swift Playgrounds App](https://apps.apple.com/us/app/swift-playgrounds/id908519492), runs on macOS and iPad
   - extract source for Xcode using Finder option "Show Package Contents"

@@ -22,7 +22,7 @@
 # select location of wiki
 cd ~/Documents
 # clone local copy of wiki
-git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
+git clone https://github.com/molab-itp/content-2023.wiki.git
 ```
 
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
@@ -34,22 +34,22 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 ## review
 
-- [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
-- [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+- [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
+- [01-Playground](https://github.com/molab-itp/01-Playground)
 
 ## new stuff
 
 - breakout rendering options for unicode and system images
 
-  - [01-UIRender-playground](https://github.com/mobilelabclass-itp/01-UIRender-playground)
+  - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
 
 - animals in ascii
 
-  - [02-Ascii-Play](https://github.com/mobilelabclass-itp/02-Ascii-Play)
+  - [02-Ascii-Play](https://github.com/molab-itp/02-Ascii-Play)
 
 - creating an icon in swiftui in the playground
 
-  - [02-Icon-Image](https://github.com/mobilelabclass-itp/02-Icon-Image)
+  - [02-Icon-Image](https://github.com/molab-itp/02-Icon-Image)
 
 ## lab activity
 
@@ -61,11 +61,11 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
     -  Browsing Your Photos - Apple Tutorial Tutorial
 
-[98-CaptureCameraStorage](https://github.com/mobilelabclass-itp/98-CaptureCameraStorage)
+[98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
 
     - Tutorial adapted to Xcode project
 
-[98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
+[98-MoGallery](https://github.com/molab-itp/98-MoGallery)
 
     - MoGallery is a mobile app for students to quickly create their own mobile multi user experiences
 

@@ -12,12 +12,12 @@
 
 ## MoGallery App
 
-- [98-MoGallery-Private](https://github.com/mobilelabclass-itp/98-MoGallery-Private)
+- [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
 
   - private repo with MoGallery/MoGallery/GoogleService-Info.plist
   - run on the your iOS device to access firebase project configured for this class
 
-- [98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
+- [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
   - must create your own [firebase project - a container for you app](https://firebase.google.com/)
 
