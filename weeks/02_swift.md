@@ -22,7 +22,7 @@
 # select location of wiki
 cd ~/Documents
 # clone local copy of wiki
-git clone https://github.com/molab-itp/content-2023.wiki.git
+git clone https://github.com/molab-itp/content-2023-Fa.wiki.git
 ```
 
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
@@ -71,11 +71,11 @@ git clone https://github.com/molab-itp/content-2023.wiki.git
 
 ## Homework Week02
 
-- create a git repo named Week02-[(your-nickname)](https://en.wikipedia.org/wiki/Nickname)
+- create a folder named Week02 in your class repo
 
-- create an Xcode playground that makes an 1024x1024 image in repo **Week02-(your-nickname)**
+- create an Xcode playground that makes an 1024x1024 image in your Week02 folder
 
-- add a link to your Week02 repo on the
+- add a link to your Week02 folder on the
 
   - [wiki home page](https://github.com/molab-itp/content-2023-Fa/wiki#week-02-homework)
 
