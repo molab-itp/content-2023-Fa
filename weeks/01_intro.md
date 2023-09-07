@@ -61,13 +61,15 @@ learn swift programming fundamentals by week 3
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 
-- [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
+- [linkedin swift-5-essential-training](https://www.linkedin.com/learning/swift-5-essential-training)
 
 - !!@ try out in your own playground
 
 ### Swift Programming Quick Review
 
 1 - 2 hours overview for experienced coders. pick one.
+
+- [Swift in 100 Seconds - YouTube](https://www.youtube.com/watch?v=nAchMctX4YA)
 
 - [learn-essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
 
@@ -153,18 +155,30 @@ Course example repos
 
 ## Homework Week01
 
-- learn swift programming fundamentals
-- using [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 to 14
+- develop a plan to learn swift programming fundamentals over the next 2 weeks. pick an option:
+
+- Option 1:
+  - [the-swift-programming-language/guidedtour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+  -
+- Option 2:
+  - [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 to 14
+  -
+- Option 3:
+
+  - [linkedin swift-5-essential-training](https://www.linkedin.com/learning/swift-5-essential-training)
+  -
+
 - start in class
 
 - budget 6 to 9 hours for this homework assignment
 - depending on your prior coding experience you may need more time or less time
 - focus on completing as much of Part 1 as possible
-- the goal is to complete up to Day 14 by Week 3 of this course
+<!-- - the goal is to complete up to Day 14 by Week 3 of this course -->
+- the goal is to complete swift fundatmentals by week 3
 
 Part 1. work on swift fundamentals
 
-- do Days 1 to 7 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
+- for example: do Days 1 to 7 of [100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 - document hours and issues in your wiki page
 
 Part 2. create playground that produces text art

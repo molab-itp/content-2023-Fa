@@ -71,9 +71,10 @@ git clone https://github.com/molab-itp/content-2023-Fa.wiki.git
 
 ## Homework Week02
 
-- create a folder named Week02 in your class repo
+- create a folder named Week02 in your class repo to store this weeks homework
 
-- create an Xcode playground that makes an 1024x1024 image in your Week02 folder
+- create an Xcode playground that creates an art image using ascii text
+- OR: create an Xcode playground that makes an 1024x1024 image
 
 - add a link to your Week02 folder on the
 
