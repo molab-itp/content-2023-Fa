@@ -4,7 +4,7 @@ We aim to create distributed instruments for computed expression.
 
 ## Before first class
 
-- [github account setup](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
+- [github account setup](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) - if you don't already have one.
 
 - [github desktop app install](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
 
