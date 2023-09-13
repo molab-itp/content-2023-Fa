@@ -35,17 +35,18 @@ git clone https://github.com/molab-itp/content-2023-Fa.wiki.git
 ## review
 
 - [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
+
 - [01-Playground](https://github.com/molab-itp/01-Playground)
 
 ## new stuff
 
-- breakout rendering options for unicode and system images
-
-  - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
-
 - animals in ascii
 
   - [02-Ascii-Play](https://github.com/molab-itp/02-Ascii-Play)
+
+- breakout rendering options for unicode and system images
+
+  - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
 
 - creating an icon in swiftui in the playground
 
@@ -56,6 +57,8 @@ git clone https://github.com/molab-itp/content-2023-Fa.wiki.git
 ## break
 
 ## Demos
+
+Building on Apple sample code to create your own app.
 
 [Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
@@ -73,8 +76,10 @@ git clone https://github.com/molab-itp/content-2023-Fa.wiki.git
 
 - create a folder named Week02 in your class repo to store this weeks homework
 
-- create an Xcode playground that creates an art image using ascii text
-- OR: create an Xcode playground that makes an 1024x1024 image
+- create an Xcode playground that creates an image using ascii text based on the techniques demonstrated in
+  [02-Ascii-Play](https://github.com/molab-itp/02-Ascii-Play)
+- OR: create an Xcode playground that makes an 1024x1024 image based on the techniques demonstrated in
+  [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
 
 - add a link to your Week02 folder on the
 
