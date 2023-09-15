@@ -5,7 +5,9 @@
 - [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
-- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
+- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
+
+-->
 
 ## Review
 

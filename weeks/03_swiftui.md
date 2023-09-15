@@ -23,6 +23,8 @@
 
 ## SwiftUI Example Repo
 
+- [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
+
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
 
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
@@ -42,7 +44,7 @@
 
 - [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
 
-- [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/)
+<!-- - [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/) -->
 
 ## Homework Week03
 
@@ -50,7 +52,7 @@
 
 - answer prior wiki questions
 
-- continue explore swift fundatmentals
+- continue exploring swift fundatmentals
 
 - OR: create your own multi-screen SwiftUI app, ok to run in simulator
 
