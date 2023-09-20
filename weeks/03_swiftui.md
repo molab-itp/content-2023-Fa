@@ -56,7 +56,7 @@
 
 - OR: create your own multi-screen SwiftUI app, ok to run in simulator
 
-- add a link to your project on
+- add a link to your project store in your Week03 folder on
 
   - [wiki home page week03](https://github.com/molab-itp/content-2023-Fa/wiki#week-03-homework)
 
