@@ -8,8 +8,29 @@
 - [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
 -->
 
+## Plan
+
+- review homework
+- questions
+- Xcode tips
+- intro to SwiftUI
+
+## XCode tips
+
+- Command-D replacement
+
+```
+"Find > Select Next Occurance (opt + cmd + E)".
+Edit in Xcode settings
+remove duplicate
+```
+
+- Xcode Tips video
+  (31 Xcode Tips & Tricks - 2023)[https://www.youtube.com/watch?v=40imnmzsmxk&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko&index=3]
+
 ## Playground review
 
+Decoding the Apple documentation
 [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
 ## Apple SwiftUI Resources
