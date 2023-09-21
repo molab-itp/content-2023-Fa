@@ -26,12 +26,13 @@ remove duplicate
 ```
 
 - Xcode Tips video
-  [31 Xcode Tips & Tricks - 2023](https://www.youtube.com/watch?v=40imnmzsmxk&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko&index=3)
+  - [31 Xcode Tips & Tricks - 2023](https://www.youtube.com/watch?v=40imnmzsmxk&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko&index=3)
 
 ## Playground review
 
-Decoding the Apple documentation
-[03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
+- Decoding the Apple documentation
+
+  - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
 ## Apple SwiftUI Resources
 
@@ -92,4 +93,4 @@ Decoding the Apple documentation
 
   - [wiki home page week03](https://github.com/molab-itp/content-2023-Fa/wiki#week-03-homework)
 
-- write your questions on your wiki page
+- document your progress and questions on your wiki page
