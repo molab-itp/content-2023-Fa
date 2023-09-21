@@ -10,6 +10,7 @@
 
 ## Plan
 
+- MoGallery install
 - review homework
 - questions
 - Xcode tips
@@ -34,7 +35,7 @@ remove duplicate
 
   - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 
-## Apple SwiftUI Resources
+## SwiftUI Apple Resources
 
 - [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
 
@@ -84,7 +85,7 @@ remove duplicate
 
 - create a single view SwiftUI app that produces image that is composed of some random elements
 
-  - like 10print as show in
+  - similar to 10print in
     - [01-UIRender-playground](https://github.com/molab-itp/01-UIRender-playground)
   - make use of arrays and random numbers
   - ok to run in simulator
