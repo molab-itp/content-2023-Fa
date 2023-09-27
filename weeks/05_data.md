@@ -7,7 +7,7 @@
 - [All SwiftUI property wrappers explained and compared](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
   Understanding "Source of Truth"
 
-- [mobilelabclass-itp github](https://github.com/mobilelabclass-itp)
+- [https://github.com/molab-itp github](https://github.com/molab-itp)
 
 ### Sensor tutorials
 

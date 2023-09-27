@@ -12,8 +12,8 @@
 ## Review
 
 - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
+
   - Dictionary/Array/Struct/Class
-- [Unwrap app](https://apps.apple.com/app/id1440611372) - Learn coding with Swift by Paul Hudson
 
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
 
@@ -21,9 +21,9 @@
 
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
 
-## Apple Resources
+## Resources
 
-- [AVAudioPlayer](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
+- [AVAudioPlayer - apple docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
 
 - [creating_custom_symbol_images_for_your_app](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app)
 
@@ -31,12 +31,17 @@
 
 - ![xcode pref indent](../assets/xcode-pref-indent.png) -->
 
-- [swiftui - documentation](https://developer.apple.com/documentation/swiftui)
+- [SwiftUI - apple docs](https://developer.apple.com/documentation/swiftui)
 
-- [Model data](https://developer.apple.com/documentation/swiftui/model-data)
+- [Model data] - apple docs(https://developer.apple.com/documentation/swiftui/model-data)
   - Manage the data that your app uses to drive its interface.
-- [Managing user interface state](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+- [Managing user interface state - apple docs](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+
   - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
+
+  - [Days 16-19 of 100 days of swiftui - Starting SwiftUI](https://www.hackingwithswift.com/100/swiftui) Project1 WeSplit Demo App
+
+- [Unwrap app](https://apps.apple.com/app/id1440611372) - Learn coding with Swift by Paul Hudson
 
 ## Audio State Demo
 
@@ -44,24 +49,25 @@
 
 ## Homework Week04
 
+- create a Week04 folder for your homework project
+
 - create your own multi-screen SwiftUI app that incorporates time and/or audio playback.
 
-- add a link to your project on
+- add a link to your project stored in your Week04 folder on
 
   - [wiki home page week04](https://github.com/molab-itp/content-2023-Fa/wiki#week-04-homework)
 
-- submit questions
+- document your progress and questions on your wiki page
 
-## Final Project Inspiration
+## Final Project Inspiration and Resources
 
 - Possible basis and inspiration for final projects
 
 - [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
 
 - [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
-  - requires Xcode 15
 
-## Final Project Resources
+  - requires Xcode 15
 
 - Consider audio capabities in this open source library for your final project
 
