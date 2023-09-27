@@ -1,14 +1,5 @@
 # Week 04 Swift UI 2, Audio
 
-<!-- ## Resource reminder
-
-- [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
-- [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-- [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
-- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
-
--->
-
 ## Review
 
 - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
@@ -27,18 +18,12 @@
 
 ## Resources
 
-- [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
-
-- [creating_custom_symbol_images_for_your_app](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app)
-
-<!-- ## XCode indent preference
-
-- ![xcode pref indent](../assets/xcode-pref-indent.png) -->
-
 - [SwiftUI docs](https://developer.apple.com/documentation/swiftui)
 
 - [Model data docs](https://developer.apple.com/documentation/swiftui/model-data)
+
   - Manage the data that your app uses to drive its interface.
+
 - [Managing user interface state docs](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
 
   - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
@@ -51,6 +36,8 @@
 ## Audio State Demo App
 
 - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
+
+- [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
 
 ## Homework Week04
 
@@ -78,6 +65,18 @@
   - Consider audio capabities in this open source library for your final project
 
 - [Simple SwiftUI](https://github.com/twostraws/simple-swiftui)
+
   - "Simple SwiftUI is a small but growing collection of projects designed to
     provide small sample projects for SwiftUI learners to read, learn from,
     modify, and even use as a basis for their projects in the future."
+
+- [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
+
+  - "SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques..."
+
+- [creating_custom_symbol_images_for_your_app](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app)
+
+<!--
+## XCode indent preference\
+- ![xcode pref indent](../assets/xcode-pref-indent.png)
+-->
