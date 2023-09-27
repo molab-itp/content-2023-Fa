@@ -15,6 +15,10 @@
 
   - Dictionary/Array/Struct/Class
 
+- [Unwrap app](https://apps.apple.com/app/id1440611372)
+
+  - Test your Swift coding fundamentals
+
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
 
 - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
@@ -23,7 +27,7 @@
 
 ## Resources
 
-- [AVAudioPlayer - apple docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
+- [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
 
 - [creating_custom_symbol_images_for_your_app](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app)
 
@@ -31,19 +35,20 @@
 
 - ![xcode pref indent](../assets/xcode-pref-indent.png) -->
 
-- [SwiftUI - apple docs](https://developer.apple.com/documentation/swiftui)
+- [SwiftUI docs](https://developer.apple.com/documentation/swiftui)
 
-- [Model data] - apple docs(https://developer.apple.com/documentation/swiftui/model-data)
+- [Model data docs](https://developer.apple.com/documentation/swiftui/model-data)
   - Manage the data that your app uses to drive its interface.
-- [Managing user interface state - apple docs](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+- [Managing user interface state docs](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
 
   - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
 
-  - [Days 16-19 of 100 days of swiftui - Starting SwiftUI](https://www.hackingwithswift.com/100/swiftui) Project1 WeSplit Demo App
+- [Days 16-19 of 100 days of swiftui - Starting SwiftUI](https://www.hackingwithswift.com/100/swiftui) Project1 WeSplit Demo App
 
-- [Unwrap app](https://apps.apple.com/app/id1440611372) - Learn coding with Swift by Paul Hudson
+  - [HackingWithSwift repo](https://github.com/twostraws/HackingWithSwift.git)
+  - [Project1 WeSplit Demo App source](https://github.com/twostraws/HackingWithSwift/blob/main/SwiftUI/project1/WeSplit/ContentView.swift)
 
-## Audio State Demo
+## Audio State Demo App
 
 - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
@@ -65,10 +70,14 @@
 
 - [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
 
-- [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
+- [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview) - requires Xcode 15
 
-  - requires Xcode 15
+- [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
 
-- Consider audio capabities in this open source library for your final project
+  - "AudioKit Cookbook for iOS and macOS (via Catalyst)"
+  - Consider audio capabities in this open source library for your final project
 
-  - [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
+- [Simple SwiftUI](https://github.com/twostraws/simple-swiftui)
+  - "Simple SwiftUI is a small but growing collection of projects designed to
+    provide small sample projects for SwiftUI learners to read, learn from,
+    modify, and even use as a basis for their projects in the future."
