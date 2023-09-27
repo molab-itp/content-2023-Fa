@@ -11,12 +11,15 @@
 
 ## Review
 
-- [Unwrap app](https://apps.apple.com/app/id1440611372)
-
-  - Learn coding with Swift by Paul Hudson
-
 - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
   - Dictionary/Array/Struct/Class
+- [Unwrap app](https://apps.apple.com/app/id1440611372) - Learn coding with Swift by Paul Hudson
+
+- [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
+
+- [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
+
+- [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
 
 ## Apple Resources
 
@@ -28,17 +31,16 @@
 
 - ![xcode pref indent](../assets/xcode-pref-indent.png) -->
 
-## Plan
+- [swiftui - documentation](https://developer.apple.com/documentation/swiftui)
 
-- review homework
+- [Model data](https://developer.apple.com/documentation/swiftui/model-data)
+  - Manage the data that your app uses to drive its interface.
+- [Managing user interface state](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+  - Encapsulate view-specific data within your app’s view hierarchy to make your views reusable.
 
-- break
+## Audio State Demo
 
-- audio and state management
-
-  - decoding the docs
-
-  - [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
+- [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
 ## Homework Week04
 
@@ -49,6 +51,15 @@
   - [wiki home page week04](https://github.com/molab-itp/content-2023-Fa/wiki#week-04-homework)
 
 - submit questions
+
+## Final Project Inspiration
+
+- Possible basis and inspiration for final projects
+
+- [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
+
+- [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
+  - requires Xcode 15
 
 ## Final Project Resources
 

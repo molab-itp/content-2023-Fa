@@ -60,18 +60,11 @@ remove duplicate
 
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
 
-<!-- ## Final Project Inspiration
-
-- Possible basis and inspiration for final projects
-
-- [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
- -->
-
 <!-- - [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine) -->
 
-<!-- - [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview) requires Xcode 15 -->
-
-<!-- - [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/) -->
+<!-- - [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/)
+!!@ Dead link
+-->
 
 ## Homework Week03
 
