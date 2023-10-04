@@ -16,11 +16,16 @@
 
 ## Examples Apps
 
+### Preview in XCode
+
 - [05-TimerDemo](https://github.com/molab-itp/05-TimerDemo)
 - [05-AppStorageDemo](https://github.com/molab-itp/05-AppStorageDemo)
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
-
 - [05-Heart-Shapes](https://github.com/molab-itp/05-Heart-Shapes)
+- [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
+
+### Device Required
+
 - [05-BubbleLevel](https://github.com/molab-itp/05-BubbleLevel)
 - [05-Seismometer](https://github.com/molab-itp/05-Seismometer)
 
@@ -30,7 +35,9 @@
 
 - Option 2: incorporate one of the class demos into your navigation app
 
-- add a link to your project on
+  - for example, add app storage to your naviation app
+
+- create a Week05 folder for your project and store a to it link here:
 
   - [wiki home page week05](https://github.com/molab-itp/content-2023-Fa/wiki#week-05-homework)
 
