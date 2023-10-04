@@ -49,8 +49,12 @@
 
   - for example, add app storage to your naviation app
 
-- create a Week05 folder for your project and store a to it link here:
+- create a Week05 folder for your project and add link to it here:
 
   - [wiki home page week05](https://github.com/molab-itp/content-2023-Fa/wiki#week-05-homework)
 
-  - enter questions on your wiki page
+  - update your wiki page with your
+    - progress,
+    - problems,
+    - plans, and
+    - questions
