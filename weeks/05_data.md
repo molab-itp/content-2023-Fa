@@ -22,16 +22,28 @@
 - [05-AppStorageDemo](https://github.com/molab-itp/05-AppStorageDemo)
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 - [05-Heart-Shapes](https://github.com/molab-itp/05-Heart-Shapes)
-- [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
 
 ### Device Required
 
 - [05-BubbleLevel](https://github.com/molab-itp/05-BubbleLevel)
 - [05-Seismometer](https://github.com/molab-itp/05-Seismometer)
 
+## In class exercise
+
+- review researching using custom fonts
+
+  - [05-CustomFont](https://github.com/molab-itp/05-CustomFont)
+
+- build BasicNav
+  - from Build from Page9 03-ImageUiDemo-1-symbols
+  - add 03-UIGraphics-View
+  - add PlayAudioView from 04-Audio-State-Demo
+
 ## Homework Week05
 
-- Option 1: continue working on past homework - make use of office hours
+- Option 1: continue working on past homework
+
+  - make use of office hours and/or coding lab
 
 - Option 2: incorporate one of the class demos into your navigation app
 
