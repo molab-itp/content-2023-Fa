@@ -18,16 +18,22 @@
 
 - [07-SlideShowDemo](https://github.com/molab-itp/07-SlideShowDemo)
 
+  - use AudioDJ as environmentObject so that audio can presists between views
+
 - [07-PhotoPickBlender](https://github.com/molab-itp/07-PhotoPickBlender)
+
+  - use Vision framework VNGeneratePersonSegmentationRequest to blend two photos
 
 - [07-FaceMesh](https://github.com/molab-itp/07-FaceMesh)
 
+  - Face Mesh with ARKit and SwiftUI
+
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
   - A photo manipulation program using Core Image filters
-  - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
+  <!-- - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
   - [Instafilter article](https://www.hackingwithswift.com/books/ios-swiftui/instafilter-introduction)
   - [source repo](https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project13)
-  - uses ImagePicker: UIViewControllerRepresentable to access UIKit PHPickerViewController
+  - uses ImagePicker: UIViewControllerRepresentable to access UIKit PHPickerViewController -->
 
 ### Resources
 
@@ -53,7 +59,18 @@
 
 ## Homework Week07
 
-- Create a photo manipulation app
+- Option 1: continue working on past homework
+
+- Option 2: create a photo manipulation app
+
   - you can base it on one of the resources presented in class, adding your own twist
-  - add a link to your project here
-    - [wiki home page week07](https://github.com/molab-itp/content-2023-Fa/wiki#week-07-homework)
+
+- create a Week07 folder for your project and add link to it here:
+
+  - [wiki home page week07](https://github.com/molab-itp/content-2023-Fa/wiki#week-07-homework)
+
+  - update your wiki page with your
+    - progress,
+    - problems,
+    - plans, and
+    - questions
