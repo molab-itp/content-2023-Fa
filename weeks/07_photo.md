@@ -61,7 +61,7 @@
 
 - Option 1: continue working on past homework
 
-- Option 2: create a photo manipulation app
+- Option 2: create an app to access or manipulate photos
 
   - you can base it on one of the resources presented in class, adding your own twist
 
