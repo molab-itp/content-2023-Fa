@@ -74,3 +74,11 @@
     - problems,
     - plans, and
     - questions
+
+## Final Project Inspiration and Resources
+
+- [Create 3D models with Object Capture - wwdc video 2021](https://developer.apple.com/videos/play/wwdc2021/10076/)
+
+- [augmented-reality realitykit](https://developer.apple.com/augmented-reality/realitykit/)
+
+- [augmented-reality object-capture/](https://developer.apple.com/augmented-reality/object-capture/)
