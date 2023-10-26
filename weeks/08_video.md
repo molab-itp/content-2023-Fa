@@ -23,10 +23,13 @@
 
 ## Review
 
+### Resources
+
 - [essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
 - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
 
-- deconstruct sample apps
+### deconstruct sample apps
+
 - clone example code
 - create a branch with your name
 - analyze add your comments
