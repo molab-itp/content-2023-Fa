@@ -94,6 +94,11 @@ Sample code is recommend starting point for exploring what's possible for a fina
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
 
+### wwdcnotes.com
+
+- [wwdcnotes.com](https://www.wwdcnotes.com/about/)
+  - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos.
+
 <!--
 ### Resources
 
