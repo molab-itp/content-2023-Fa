@@ -23,12 +23,18 @@
 
 ## Review
 
+- [essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
+- [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
+
 - deconstruct sample apps
-- clone example code. analyze add your comments
+- clone example code
+- analyze add your comments
+- document what you don't know
 
 ### JSON saving and loading
 
 - [07-ImageEditDemoJSON](https://github.com/molab-itp/07-ImageEditDemoJSON)
+  - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
   - Generic function SaveLoadJSON.swift
 
 ### Photo access
@@ -64,6 +70,29 @@
     - problems,
     - plans, and
     - questions
+
+## Final Project Inspiration and Resources
+
+- Review Final Project Inspiration from previous weeks
+
+### WWDC Video Tutorials
+
+Inspiration for your final projecct.
+Use to explore your final project options and find sample code.
+
+- [WWDC Videos](https://developer.apple.com/videos/all-videos)
+
+Covers everything Apple (iOS, macOS, tvOS, watchOS)  
+Use search to be selective, or [browse by Topics](https://developer.apple.com/videos/topics/)
+
+### WWDC Sample Code
+
+Sample code is recommend starting point for exploring what's possible for a final project. Download and verify the sample works before investing your time in further research.
+
+- [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
+- [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
+- [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
+- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
 
 <!--
 ### Resources
