@@ -55,12 +55,12 @@
 
 ## Homework Week08
 
-- Option 1: Work on previous assignments
+- Option 1: work on previous assignments
 
   - create place holder folders for past assigments
   - continue studying Swift/SwiftUI and update wiki with your progress
 
-- Option 2: Create a video manipulation app
+- Option 2: create a video manipulation app
 
   - you can base it on one of the resources presented in class, adding your own twist
   - add a link to your project here
