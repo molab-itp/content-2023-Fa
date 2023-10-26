@@ -28,6 +28,7 @@
 
 - deconstruct sample apps
 - clone example code
+- create a branch with your name
 - analyze add your comments
 - document what you don't know
 
@@ -35,7 +36,7 @@
 
 - [07-ImageEditDemoJSON](https://github.com/molab-itp/07-ImageEditDemoJSON)
   - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
-  - Generic function SaveLoadJSON.swift
+  - Generic functions in SaveLoadJSON.swift
 
 ### Photo access
 
@@ -75,6 +76,11 @@
 
 - Review Final Project Inspiration from previous weeks
 
+### wwdcnotes.com
+
+- [wwdcnotes.com](https://www.wwdcnotes.com/about/)
+  - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos.
+
 ### WWDC Video Tutorials
 
 Inspiration for your final projecct.
@@ -93,11 +99,6 @@ Sample code is recommend starting point for exploring what's possible for a fina
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
-
-### wwdcnotes.com
-
-- [wwdcnotes.com](https://www.wwdcnotes.com/about/)
-  - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos.
 
 <!--
 ### Resources
