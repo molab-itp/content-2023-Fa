@@ -55,6 +55,12 @@
   - public repo, no GoogleService-Info.plist
   - must create your own [firebase project - a container for you app](https://firebase.google.com/)
 
+## Re-using Example Code
+
+- in class exercises
+- removed unused code
+- renaming project
+
 ## Firebase Resources
 
 ### Docs
