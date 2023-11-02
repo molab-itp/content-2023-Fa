@@ -77,14 +77,9 @@
 
 - Option 1:
 
-  - Using Map Demo app [09-Bucketlist](https://github.com/molab-itp/09-Bucketlist)
-  - Add a list view of locations and ability to delete an entry
-
-- Option 2:
-
   - setup a firebase project and build one of the firebase tutorial apps
 
-- Option 3:
+- Option 2:
 
   - customize the MoLobby app in
     - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
