@@ -79,7 +79,7 @@
 
 ## Homework Week09
 
-- Prepare first draft of your final project proposal
+- Prepare first draft of your final project proposal. Ok to entertain more than one initial concept
 
 - Option 1:
 
