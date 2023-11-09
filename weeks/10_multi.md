@@ -10,12 +10,17 @@
 
 - Final Project Discussion
 
+### Refactoring Exercise
+
+[06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
+
 ## MoGallery App
 
 - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
 
   - private repo with MoGallery/MoGallery/GoogleService-Info.plist
   - run on the your iOS device to access firebase project configured for this class
+  - Use MoLobby project for Lobby only functions
 
 - [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
@@ -36,6 +41,12 @@
 
 - write your final project proposal on your wiki page
 
-- create a repo for the project and add it to the homework page
+- create a Week10 folder for your project and add link to it here:
 
 - [wiki home page week10](https://github.com/molab-itp/content-2023-Fa/wiki#week-10-homework)
+
+  - update your wiki page with your
+    - progress,
+    - problems,
+    - plans, and
+    - questions
