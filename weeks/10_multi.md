@@ -20,7 +20,12 @@
 
   - private repo with MoGallery/MoGallery/GoogleService-Info.plist
   - run on the your iOS device to access firebase project configured for this class
-  - Use MoLobby project for Lobby only functions
+  - [MoLobby](https://github.com/molab-itp/98-MoGallery-Private/tree/main/MoLobby)
+    - MoLobby is the google signon code extracted from MoGallery
+    - Use MoLobby project for Lobby only functions
+  - [MoLobbyAnon](https://github.com/molab-itp/98-MoGallery-Private/tree/main/MoLobbyAnon)
+    - MoLobbyAnon is MoLobby further simplified to anonymous signon
+    - Shows use of tab view combined with navigation view
 
 - [98-MoGallery](https://github.com/molab-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
