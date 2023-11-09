@@ -12,7 +12,7 @@
 
 ### Refactoring Exercise
 
-[06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
+- [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
 
 ## MoGallery App
 
