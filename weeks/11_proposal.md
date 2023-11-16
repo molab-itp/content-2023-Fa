@@ -20,6 +20,8 @@
 
 - [Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
 
+  - https://www.modular.com/
+
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
 
   - workflow Swift in other environs
