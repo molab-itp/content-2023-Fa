@@ -23,13 +23,13 @@
 - Already started?
   - report
     - progress
-    - plans
     - problems
+    - plans
 
 ## Questions
 
 ## Homework Week11
 
 - continue working on your final project
-- be prepared to present and discuss progress|plans|problems
-- update your wiki page progress|plans|problems
+- be prepared to present and discuss progress|problems|plans
+- update your wiki page progress|problems|plans
