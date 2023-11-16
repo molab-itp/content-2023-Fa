@@ -16,7 +16,7 @@
 
 - report
 
-  - progress|problems|plans|questions
+  - progress | problems| plans | questions
 
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
 
@@ -34,5 +34,5 @@
   - how will you track your project?
     - homework folder | new repo
     - note how and put a link in your wiki page
-- be prepared to present and discuss progress|problems|plans|questions
-- update your wiki page progress|problems|plans|questions
+- be prepared to present and discuss progress | problems| plans | questions
+- update your wiki page progress | problems| plans | questions
