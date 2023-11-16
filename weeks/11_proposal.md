@@ -14,7 +14,9 @@
 
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
 
-  - exploring svg -- yet another web language
+  - workflow Swift in other environs
+  - svg -- yet another web language
+  - using Swift for preparing assets in the command line
 
 - Pair up to update your final project proposal in your wiki page.
 
@@ -28,4 +30,6 @@
 
 ## Homework Week11
 
-- be prepared to present and discuss progress|plans|problems and update your wiki page
+- continue working on your final project
+- be prepared to present and discuss progress|plans|problems
+- update your wiki page progress|plans|problems
