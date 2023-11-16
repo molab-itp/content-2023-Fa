@@ -18,6 +18,8 @@
 
   - progress | problems| plans | questions
 
+- [Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
+
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
 
   - workflow Swift in other environs
