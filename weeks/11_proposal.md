@@ -12,6 +12,14 @@
   - https://github.com/molab-itp/98-MoGallery-p5js.git
    -->
 
+- Pair up to update your final project proposal in your wiki page.
+
+- report
+
+  - progress
+  - problems
+  - plans
+
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
 
   - workflow Swift in other environs
@@ -19,13 +27,6 @@
   - using Swift for preparing assets in the command line
 
 - [using_musickit_to_integrate_with_apple_music](https://developer.apple.com/documentation/musickit/using_musickit_to_integrate_with_apple_music)
-
-- Pair up to update your final project proposal in your wiki page.
-
-- report
-  - progress
-  - problems
-  - plans
 
 ## Questions
 
