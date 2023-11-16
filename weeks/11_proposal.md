@@ -20,11 +20,10 @@
 
 - Pair up to update your final project proposal in your wiki page.
 
-- Already started?
-  - report
-    - progress
-    - problems
-    - plans
+- report
+  - progress
+  - problems
+  - plans
 
 ## Questions
 
