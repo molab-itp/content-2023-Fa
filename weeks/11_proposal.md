@@ -18,6 +18,8 @@
   - svg -- yet another web language
   - using Swift for preparing assets in the command line
 
+- [using_musickit_to_integrate_with_apple_music](https://developer.apple.com/documentation/musickit/using_musickit_to_integrate_with_apple_music)
+
 - Pair up to update your final project proposal in your wiki page.
 
 - report
