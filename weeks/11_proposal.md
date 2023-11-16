@@ -16,9 +16,7 @@
 
 - report
 
-  - progress
-  - problems
-  - plans
+  - progress|problems|plans|questions
 
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
 
