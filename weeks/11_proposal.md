@@ -34,5 +34,6 @@
   - how will you track your project?
     - homework folder | new repo
     - note how and put a link in your wiki page
-- be prepared to present and discuss progress | problems| plans | questions
-- update your wiki page progress | problems| plans | questions
+- be prepared to present and discuss
+- update your wiki page
+  - progress | problems| plans | questions
