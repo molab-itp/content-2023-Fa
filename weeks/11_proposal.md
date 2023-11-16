@@ -2,6 +2,7 @@
 
 ## Plan
 
+<!--
 - [review Bucketlist branch: list](https://github.com/molab-itp/09-Bucketlist.git)
 
 - MoGallery Workflow
@@ -9,6 +10,11 @@
   - https://github.com/molab-itp/98-MoGallery-Private.git
   - https://github.com/molab-itp/98-MoGallery.git
   - https://github.com/molab-itp/98-MoGallery-p5js.git
+   -->
+
+- [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
+
+  - exploring svg -- yet another web language
 
 - Pair up to update your final project proposal in your wiki page.
 
