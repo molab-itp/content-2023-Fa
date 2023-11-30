@@ -6,7 +6,16 @@
 
 - Questions
 
-### ARGeoTracking demo apps
+## Earth Flags Demo App
+
+- [EarthFlags](https://github.com/molab-itp/99-Flag-Flow/tree/main/EarthFlags)
+
+  - demo desktop
+  - demo on device
+  - structuring code for readability
+  - download package contents to look at JSON
+
+<!-- ### ARGeoTracking demo apps
 
 - [tracking_geographic_locations_in_ar](https://developer.apple.com/documentation/arkit/argeoanchor)
 
@@ -26,4 +35,4 @@
 
 - cocoapods
 
-- xcworkspace
+- xcworkspace -->
