@@ -45,7 +45,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 11 -- [Final Project Proposal - Workshop 1](weeks/11_proposal.md)
 
-- 12 -- Final Project Workshop 2
+- 12 -- [Final Project Workshop 2](weeks/12_workshop.md)
 
 - 13 -- Final Project Workshop 3
 
