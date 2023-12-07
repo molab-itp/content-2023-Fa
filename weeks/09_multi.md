@@ -72,10 +72,14 @@
 
 ### Firebase Tutorials
 
-- https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
+<!-- - https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
 - https://www.kodeco.com/21133526-firebase-tutorial-getting-started
 - https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat
 - https://www.kodeco.com/4203-beginning-firebase
+
+!!@ Review for next class
+
+ -->
 
 ## Homework Week09
 
